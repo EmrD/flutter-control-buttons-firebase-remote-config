@@ -5,9 +5,7 @@ You can change the values from Firebase Console to set the visibility of the but
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Don't forget to add your .env file. This project is a starting point for a Flutter application. A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
